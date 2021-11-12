@@ -1,6 +1,6 @@
 var laptop = {
-  numberOfKeys: 150,
-  yearMade: 2017,
+  make: 'Apple',
+  model: 'Macbookpro',
   screenWidth: 13.5,
   screenHeight: 8.4,
   isNew: false,
